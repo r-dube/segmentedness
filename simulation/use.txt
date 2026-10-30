@@ -1,0 +1,6 @@
+The code included here generates the tables and figures in section 6 (Estimator Evaluation) of the https://www.researchgate.net/publication/400704460_How_segmented_is_my_network
+The purpose of the code is to demonstrate that the estimator proposed in the paper produces the theoretically predicted output.
+ER.ipynb corresponds to section 6.1 (Estimation over Random Networks)
+SBM-equal-sized-blocks.ipynb corresponds to section 6.2 (Estimation over Networks with Communities)
+CSW-analysis.ipynb corresponds to section 6.3 (Estimation over Enterprise Network Data)
+value-weighted.ipynb corresponds to the appendix of https://www.researchgate.net/publication/410040876_Value-Weighted_Segmentedness_Measuring_Whether_a_Network_Isolates_What_Matters
